@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WhoDaParking</string>
+    <string name="text_search_title">Search by Text</string>
+    <string name="camera_search_title">Search by Photo</string>
+    <string name="enter_registration_hint">Enter registration plate</string>
+    <string name="search_button">Search</string>
+    <string name="take_photo_button">Take Photo</string>
+    <string name="detected_text_label">Detected:</string>
+    <string name="no_match_found">No matching vehicle found.</string>
+    <string name="camera_permission_required">Camera permission is required to take photos</string>
+    <string name="camera_error">Camera error occurred</string>
+    <string name="ocr_processing">Processing image...</string>
+    <string name="loading_data">Loading vehicle data...</string>
+    <string name="data_load_error">Failed to load vehicle data. Please check assets/vehicle_records.json</string>
+    <string name="retry">Retry</string>
+    <string name="edit_detected_text">Edit detected text</string>
+    <string name="confirm_search">Confirm &amp; Search</string>
+</resources>

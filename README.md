@@ -2,6 +2,8 @@
 
 A production-ready Android app that identifies who a car belongs to by license plate using on-device OCR and local vehicle registry data.
 
+> Test build trigger
+
 [![Android CI](https://github.com/schalklotz/WhoDaParking/actions/workflows/android-ci.yml/badge.svg)](https://github.com/schalklotz/WhoDaParking/actions/workflows/android-ci.yml)
 [![API](https://img.shields.io/badge/API-24%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=24)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
